@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 Branch management is interesting.
 Git can merge branches.
 Git can merge by fast-forward or no-ff.
+Git is good for group development.
