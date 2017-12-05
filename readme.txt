@@ -7,3 +7,5 @@ Branch management is interesting.
 Git can merge branches.
 Git can merge by fast-forward or no-ff.
 Git is good for group development.
+Git can stash imcomplete work and fix bugs first.
+Git can stash apply or stash pop.
